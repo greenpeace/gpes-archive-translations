@@ -1,129 +1,129 @@
-var euskera = [
+var gallego = [
   //Cabecera
   {
     "castellano":'Archivo histórico',
-    "euskera":''
+    "gallego":''
   },
   //menu
   {
     "castellano": "Inicio",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Presentación",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Datos Abiertos",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Dona Documentación",
-    "euskera":""
+    "gallego":""
   },
   //Tipos de documentos a Buscar
   {
     'castellano':'Todos los documentos',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Carta',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Comunicado o Declaración',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Folleto',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Guía',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Informe',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Observación o alegación',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Otro documento de campaña',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Revista o dossier',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Documento institucional',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Artículo o post',
-    'euskera':''
+    'gallego':''
   },
   //menú idiomas
   {
     'castellano':'Castellano',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Catalán',
-    'euskera':''
+    'gallego':''
   },{
-    'castellano':'Euskera',
-    'euskera':''
+    'castellano':'gallego',
+    'gallego':''
   },{
     'castellano':'Gallego',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Inglés',
-    'euskera':''
+    'gallego':''
   },
   //OPAC
   {
     "castellano":"Seleccionar tipo de documento a buscar",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Búsqueda por texto libre",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Solo para documentos a partir de 2004.",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Título del Documento",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"No utilizar Título para revistas.",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":"Seleccionar formato de salida de los resultados",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":'Autoría Institucional',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Temática',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Año',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Programa',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Época',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Número',
-    "euskera":''
+    "gallego":''
   },
   //Botones
   {
     "castellano":"Ayuda",
-    "euskera":''
+    "gallego":''
   },{
     "castellano":"Buscar",
-    "euskera":""
+    "gallego":""
   },{
     "castellano":'Acceder',
-    "euskera":''
+    "gallego":''
   },{
     'castellano':'Salir',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Volver a archivo personal',
-    'euskera':''
+    'gallego':''
   },
   //Pie
   {
@@ -132,70 +132,70 @@ var euskera = [
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
       `,
-    "euskera":``
+    "gallego":``
   },
   //Participa
   {
     'castellano':'Datos de la persona donante',
-    'euskera':''
+    'gallego':''
   },{
     "castellano":'Nombre',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Apellidos',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Correo electrónico',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Comentarios',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":'Autorizo que se publiquen mis datos personales',
-    "euskera": ''
+    "gallego": ''
   },{
     "castellano":'Los campos marcados con <span style="color:red">*</span> son obligatorios',
-    "euskera":''
+    "gallego":''
   },{
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
           `,
-    "euskera":``
+    "gallego":``
   },
   //donaciones
   {
     "castellano":'Añadir nuevo documento',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Añadir documento',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Documentos aportados',
-    'euskera':''
+    'gallego':''
   },
   //añadir documento
   {
     'castellano':'Por favor, indícanos el título del documento. Los demás campos son opcionales.',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Fecha Documento',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Archivo a aportar',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'Tamaño máximo: 20 MB',
-    'euskera':''
+    'gallego':''
   },
   //resultado donacion
   {
     'castellano':'Resultado de la incorporación de documentos',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'El documento se ha añadido con éxito. Gracias por tu contribución al conocimiento colectivo.',
-    'euskera':''
+    'gallego':''
   },{
     'castellano':'ERROR:Not Allowed extension',
-    'euskera':''
+    'gallego':''
   }
 ];
