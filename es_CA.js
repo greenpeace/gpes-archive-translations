@@ -2,128 +2,128 @@ var catalan = [
   //Cabecera
   {
     "castellano":'Archivo histórico',
-    "catalan":''
+    "catalan":'Arxiu històric'
   },
   //menu
   {
     "castellano": "Inicio",
-    "catalan":""
+    "catalan":"Inici"
   },{
     "castellano":"Presentación",
-    "catalan":""
+    "catalan":"Presentació"
   },{
     "castellano":"Datos Abiertos",
-    "catalan":""
+    "catalan":"Dades obertes"
   },{
     "castellano":"Dona Documentación",
-    "catalan":""
+    "catalan":"Dona documentació"
   },
   //Tipos de documentos a Buscar
   {
     'castellano':'Todos los documentos',
-    'catalan':''
+    'catalan':'Tots els documents'
   },{
     'castellano':'Carta',
-    'catalan':''
+    'catalan':'Carta'
   },{
     'castellano':'Comunicado o Declaración',
-    'catalan':''
+    'catalan':'Comunicat o declaració'
   },{
     'castellano':'Folleto',
-    'catalan':''
+    'catalan':'Futllet'
   },{
     'castellano':'Guía',
-    'catalan':''
+    'catalan':'Guia'
   },{
     'castellano':'Informe',
-    'catalan':''
+    'catalan':'Informe'
   },{
     'castellano':'Observación o alegación',
-    'catalan':''
+    'catalan':'Observació o al·legació'
   },{
     'castellano':'Otro documento de campaña',
-    'catalan':''
+    'catalan':'Un altre document de campanya'
   },{
     'castellano':'Revista o dossier',
-    'catalan':''
+    'catalan':'Revista o dossier'
   },{
     'castellano':'Documento institucional',
-    'catalan':''
+    'catalan':'Document institucional'
   },{
     'castellano':'Artículo o post',
-    'catalan':''
+    'catalan':'Article o post'
   },
   //menú idiomas
   {
     'castellano':'Castellano',
-    'catalan':''
+    'catalan':'Castellà'
   },{
     'castellano':'Catalán',
-    'catalan':''
+    'catalan':'Català'
   },{
     'castellano':'Euskera',
-    'catalan':''
+    'catalan':'Basc'
   },{
     'castellano':'Gallego',
-    'catalan':''
+    'catalan':'Gallec'
   },{
     'castellano':'Inglés',
-    'catalan':''
+    'catalan':'Anglés'
   },
   //OPAC
   {
     "castellano":"Seleccionar tipo de documento a buscar",
-    "catalan":""
+    "catalan":"Selecciona del tipus de document a cercar"
   },{
     "castellano":"Búsqueda por texto libre",
-    "catalan":""
+    "catalan":"Cerca per text lliure"
   },{
     "castellano":"Solo para documentos a partir de 2004.",
-    "catalan":""
+    "catalan":"Només per a documents a partir de 2004."
   },{
     "castellano":"Título del Documento",
-    "catalan":""
+    "catalan":"Títol del Document"
   },{
     "castellano":"No utilizar Título para revistas.",
-    "catalan":""
+    "catalan":"No usis títol per a revistes."
   },{
     "castellano":"Seleccionar formato de salida de los resultados",
-    "catalan":""
+    "catalan":"Selecciona el format de sortida dels resultats"
   },{
     "castellano":'Autoría Institucional',
-    "catalan":''
+    "catalan":'Autoria Institucional'
   },{
     "castellano":'Temática',
-    "catalan":''
+    "catalan":'Temàtica'
   },{
     "castellano":'Año',
-    "catalan":''
+    "catalan":'Any'
   },{
     "castellano":'Programa',
-    "catalan":''
+    "catalan":'Programa'
   },{
     "castellano":'Época',
-    "catalan":''
+    "catalan":'Època'
   },{
     "castellano":'Número',
-    "catalan":''
+    "catalan":'Número'
   },
   //Botones
   {
     "castellano":"Ayuda",
-    "catalan":''
+    "catalan":'Ajuda'
   },{
     "castellano":"Buscar",
-    "catalan":""
+    "catalan":"Cerca"
   },{
     "castellano":'Acceder',
-    "catalan":''
+    "catalan":'Accedeix'
   },{
     'castellano':'Salir',
-    'catalan':''
+    'catalan':'Surt'
   },{
     'castellano':'Volver a archivo personal',
-    'catalan':''
+    'catalan':'Torna a l'arxiu personal'
   },
   //Pie
   {
@@ -132,70 +132,76 @@ var catalan = [
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
       `,
-    "catalan":``
+    "catalan":`
+        <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
+        <p class="center">|</p>
+        <p class="right">Lloc web realitzat amb <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, alliberta sota llicència AGPLv3</p>
+        `
   },
   //Participa
   {
     'castellano':'Datos de la persona donante',
-    'catalan':''
+    'catalan':'Dades de la persona donant'
   },{
     "castellano":'Nombre',
-    "catalan":''
+    "catalan":'Nom'
   },{
     "castellano":'Apellidos',
-    "catalan":''
+    "catalan":'Cognoms'
   },{
     "castellano":'Correo electrónico',
-    "catalan":''
+    "catalan":'Correu electrònic'
   },{
     "castellano":'Comentarios',
-    "catalan":''
+    "catalan":'Comentaris'
   },{
     "castellano":'Autorizo que se publiquen mis datos personales',
-    "catalan": ''
+    "catalan": 'Autoritzo que es publiquin les meves dades personals'
   },{
     "castellano":'Los campos marcados con <span style="color:red">*</span> son obligatorios',
-    "catalan":''
+    "catalan":'Els camps marcats amb <span style="color:red">*</span> son obligatoris'
   },{
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
           `,
-    "catalan":``
+    "catalan":`
+            <input type="checkbox" required=""> He llegit i accepte la <a href="politica-privacidad.html" target="_blank">Política de privacitat</a>.
+        `
   },
   //donaciones
   {
     "castellano":'Añadir nuevo documento',
-    'catalan':''
+    'catalan':'Afegeix nou document'
   },{
     'castellano':'Añadir documento',
-    'catalan':''
+    'catalan':'Afegeix document'
   },{
     'castellano':'Documentos aportados',
-    'catalan':''
+    'catalan':'Documents aportats'
   },
   //añadir documento
   {
     'castellano':'Por favor, indícanos el título del documento. Los demás campos son opcionales.',
-    'catalan':''
+    'catalan':'Per favor, indica el títol del document. La resta de camps són opcionals.'
   },{
     'castellano':'Fecha Documento',
-    'catalan':''
+    'catalan':'Data de document'
   },{
     'castellano':'Archivo a aportar',
-    'catalan':''
+    'catalan':'Arxiu a aportar'
   },{
     'castellano':'Tamaño máximo: 20 MB',
-    'catalan':''
+    'catalan':'Mida màxima: 20 MB'
   },
   //resultado donacion
   {
     'castellano':'Resultado de la incorporación de documentos',
-    'catalan':''
+    'catalan':'Resultat de la incorporació de documents'
   },{
     'castellano':'El documento se ha añadido con éxito. Gracias por tu contribución al conocimiento colectivo.',
-    'catalan':''
+    'catalan':'El document ha estat afegit amb èxit. Gràcies per la contribució al coneixement col·lectiu'
   },{
     'castellano':'ERROR:Not Allowed extension',
-    'catalan':''
+    'catalan':'ERROR:Not Allowed extension'
   }
 ];
