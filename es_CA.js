@@ -123,7 +123,7 @@ var catalan = [
     'catalan':'Surt'
   },{
     'castellano':'Volver a archivo personal',
-    'catalan':'Torna a l'arxiu personal'
+    'catalan':'Torna a Arxiu personal'
   },
   //Pie
   {
@@ -131,7 +131,7 @@ var catalan = [
         <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
-      `,
+        `
     "catalan":`
         <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
         <p class="center">|</p>
@@ -163,10 +163,10 @@ var catalan = [
   },{
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
-          `,
+          `
     "catalan":`
             <input type="checkbox" required=""> He llegit i accepte la <a href="politica-privacidad.html" target="_blank">Política de privacitat</a>.
-        `
+          `
   },
   //donaciones
   {
