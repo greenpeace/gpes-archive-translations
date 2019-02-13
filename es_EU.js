@@ -2,128 +2,128 @@ var euskera = [
   //Cabecera
   {
     "castellano":'Archivo histórico',
-    "euskera":''
+    "euskera":'Artxibo historikoa'
   },
   //menu
   {
     "castellano": "Inicio",
-    "euskera":""
+    "euskera":"Hasiera"
   },{
     "castellano":"Presentación",
-    "euskera":""
+    "euskera":"Arkezpena"
   },{
     "castellano":"Datos Abiertos",
-    "euskera":""
+    "euskera":"Datu irekiak"
   },{
     "castellano":"Dona Documentación",
-    "euskera":""
+    "euskera":"Dokumentazioa eman"
   },
   //Tipos de documentos a Buscar
   {
     'castellano':'Todos los documentos',
-    'euskera':''
+    'euskera':'Dokumentu guztiak'
   },{
     'castellano':'Carta',
-    'euskera':''
+    'euskera':'Gutuna'
   },{
     'castellano':'Comunicado o Declaración',
-    'euskera':''
+    'euskera':'Komunikatua edo Adierazpena'
   },{
     'castellano':'Folleto',
-    'euskera':''
+    'euskera':'Liburuxka'
   },{
     'castellano':'Guía',
-    'euskera':''
+    'euskera':'Gida'
   },{
     'castellano':'Informe',
-    'euskera':''
+    'euskera':'Txostena'
   },{
     'castellano':'Observación o alegación',
-    'euskera':''
+    'euskera':'Oharra edo arrazoibidea'
   },{
     'castellano':'Otro documento de campaña',
-    'euskera':''
+    'euskera':'Beste kanpaina-dokumentua'
   },{
     'castellano':'Revista o dossier',
-    'euskera':''
+    'euskera':'Aldizkaria edo dosierra'
   },{
     'castellano':'Documento institucional',
-    'euskera':''
+    'euskera':'Dokumentu instituzionala'
   },{
     'castellano':'Artículo o post',
-    'euskera':''
+    'euskera':'Artikulu edo post-a'
   },
   //menú idiomas
   {
     'castellano':'Castellano',
-    'euskera':''
+    'euskera':'Gaztelania'
   },{
     'castellano':'Catalán',
-    'euskera':''
+    'euskera':'Katalana'
   },{
     'castellano':'Euskera',
-    'euskera':''
+    'euskera':'Euskara'
   },{
     'castellano':'Gallego',
-    'euskera':''
+    'euskera':'Galegoa'
   },{
     'castellano':'Inglés',
-    'euskera':''
+    'euskera':'Ingelesa'
   },
   //OPAC
   {
     "castellano":"Seleccionar tipo de documento a buscar",
-    "euskera":""
+    "euskera":"Bilatzeko dokumentu mota aukeratu"
   },{
     "castellano":"Búsqueda por texto libre",
-    "euskera":""
+    "euskera":"Testu libreko bilaketa"
   },{
     "castellano":"Solo para documentos a partir de 2004.",
-    "euskera":""
+    "euskera":"2004-tik aurreko dokumentuetarako soilik"
   },{
     "castellano":"Título del Documento",
-    "euskera":""
+    "euskera":"Dokumentuaren izenburua"
   },{
     "castellano":"No utilizar Título para revistas.",
-    "euskera":""
+    "euskera":"Izenbururik ez erabili aldizkarientzat"
   },{
     "castellano":"Seleccionar formato de salida de los resultados",
-    "euskera":""
+    "euskera":"Emaitzen irteera formatua aukeratu"
   },{
     "castellano":'Autoría Institucional',
-    "euskera":''
+    "euskera":'Egiletza instituzionala'
   },{
     "castellano":'Temática',
-    "euskera":''
+    "euskera":'Gaiak'
   },{
     "castellano":'Año',
-    "euskera":''
+    "euskera":'Urtea'
   },{
     "castellano":'Programa',
-    "euskera":''
+    "euskera":'programa'
   },{
     "castellano":'Época',
-    "euskera":''
+    "euskera":'Garaia'
   },{
     "castellano":'Número',
-    "euskera":''
+    "euskera":'Zenbakia'
   },
   //Botones
   {
     "castellano":"Ayuda",
-    "euskera":''
+    "euskera":'Laguntza'
   },{
     "castellano":"Buscar",
-    "euskera":""
+    "euskera":"Bilatu"
   },{
     "castellano":'Acceder',
-    "euskera":''
+    "euskera":'Sartu'
   },{
     'castellano':'Salir',
-    'euskera':''
+    'euskera':'Irten'
   },{
     'castellano':'Volver a archivo personal',
-    'euskera':''
+    'euskera':'Artxibo pertsonalera bueltatu'
   },
   //Pie
   {
@@ -133,69 +133,74 @@ var euskera = [
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
       `,
     "euskera":``
+        <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
+        <p class="center">|</p>
+        <p class="right"> <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc-arekin eginiko web orria</a>, AGPLv3 lizentziapean liberatua</p>
   },
   //Participa
   {
     'castellano':'Datos de la persona donante',
-    'euskera':''
+    'euskera':'Emaileraen datuak'
   },{
     "castellano":'Nombre',
-    "euskera":''
+    "euskera":'Izena'
   },{
     "castellano":'Apellidos',
-    "euskera":''
+    "euskera":'Abizenak'
   },{
     "castellano":'Correo electrónico',
-    "euskera":''
+    "euskera":'Posta elektronikoa'
   },{
     "castellano":'Comentarios',
-    "euskera":''
+    "euskera":'Iruzkinak'
   },{
     "castellano":'Autorizo que se publiquen mis datos personales',
-    "euskera": ''
+    "euskera": 'Nire datu pertsonalak argitaratzea baimentzen dut'
   },{
     "castellano":'Los campos marcados con <span style="color:red">*</span> son obligatorios',
-    "euskera":''
+    "euskera":'<span style="color:red">*</span> bezala seinalatutako eremuak derrigorrezkoak dira'
   },{
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
           `,
     "euskera":``
+            <input type="checkbox" required=""> <a href="politica-privacidad.html" target="_blank">Pribatutasun-politika irakurri eta onartu dut</a>.
+          `,
   },
   //donaciones
   {
     "castellano":'Añadir nuevo documento',
-    'euskera':''
+    'euskera':'Dokumentu berria gehitu'
   },{
     'castellano':'Añadir documento',
-    'euskera':''
+    'euskera':'Dokumentua gehitu'
   },{
     'castellano':'Documentos aportados',
-    'euskera':''
+    'euskera':'Emandako dokumentuak'
   },
   //añadir documento
   {
     'castellano':'Por favor, indícanos el título del documento. Los demás campos son opcionales.',
-    'euskera':''
+    'euskera':'Mesedez, dokumentuaren izenburua adierazi. Beste eremuak hautazkoak dira'
   },{
     'castellano':'Fecha Documento',
-    'euskera':''
+    'euskera':'Dokumentu-data'
   },{
     'castellano':'Archivo a aportar',
-    'euskera':''
+    'euskera':'Emateko artxiboa'
   },{
     'castellano':'Tamaño máximo: 20 MB',
-    'euskera':''
+    'euskera':'Gehienezko tamaina: 20MB'
   },
   //resultado donacion
   {
     'castellano':'Resultado de la incorporación de documentos',
-    'euskera':''
+    'euskera':'Dokumentu-ematearen emaitza'
   },{
     'castellano':'El documento se ha añadido con éxito. Gracias por tu contribución al conocimiento colectivo.',
-    'euskera':''
+    'euskera':'Dokumentua egoki gehitu da. Ezaguera kolektiborako zure ekarpenagatik mila esker'
   },{
     'castellano':'ERROR:Not Allowed extension',
-    'euskera':''
+    'euskera':'ERROREA: debekatutako-luzapena'
   }
 ];
