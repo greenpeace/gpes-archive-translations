@@ -61,8 +61,8 @@ var gallego = [
     'castellano':'Catalán',
     'gallego':'Catalán'
   },{
-    'castellano':'gallego',
-    'gallego':'galego'
+    'castellano':'Euskera',
+    'gallego':''
   },{
     'castellano':'Gallego',
     'gallego':'Gallego'
@@ -132,7 +132,8 @@ var gallego = [
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
       `,
-    "gallego":`<p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
+    "gallego":`
+        <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado baixo licenza AGPLv3</p>
       `
@@ -163,7 +164,9 @@ var gallego = [
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
           `,
-    "gallego":`<input type="checkbox" required=""> Lin e acepto a <a href="politica-privacidad.html" target="_blank">Política de confidencialidade</a>.`
+    "gallego":`
+        <input type="checkbox" required=""> Lin e acepto a <a href="politica-privacidad.html" target="_blank">Política de confidencialidade</a>.
+        `
   },
   //donaciones
   {
