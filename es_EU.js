@@ -132,10 +132,11 @@ var euskera = [
         <p class="center">|</p>
         <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
       `,
-    "euskera":``
+    "euskera":`
         <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
         <p class="center">|</p>
         <p class="right"> <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc-arekin eginiko web orria</a>, AGPLv3 lizentziapean liberatua</p>
+        `
   },
   //Participa
   {
@@ -163,7 +164,7 @@ var euskera = [
     "castellano":`
             <input type="checkbox" required=""> He leído y acepto la <a href="politica-privacidad.html" target="_blank">Política de Privacidad</a>.
           `,
-    "euskera":``
+    "euskera":`
             <input type="checkbox" required=""> <a href="politica-privacidad.html" target="_blank">Pribatutasun-politika irakurri eta onartu dut</a>.
           `,
   },
