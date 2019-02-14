@@ -62,7 +62,7 @@ var gallego = [
     'gallego':'Catalán'
   },{
     'castellano':'Euskera',
-    'gallego':''
+    'gallego':'Éuscaro'
   },{
     'castellano':'Gallego',
     'gallego':'Gallego'
