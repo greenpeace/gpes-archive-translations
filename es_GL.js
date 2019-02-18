@@ -73,7 +73,7 @@ var gallego = [
   //OPAC
   {
     "castellano":"\n                    Seleccionar tipo de documento a buscar\n                  ",
-    "gallego":"Seleccionar tipo de documento que se procura"
+    "gallego":"\n                    Seleccionar tipo de documento que se procura\n                  "
   },{
     "castellano":'Búsqueda por texto libre<br><span class=\"note\">Solo para documentos a partir de 2004</span>',
     "gallego":"Procurar por texto libre<br><span class=\"note\">Só para documentos dende 2004</span>"
