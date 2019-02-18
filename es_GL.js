@@ -105,15 +105,15 @@ var gallego = [
   //OPAC Help
   {
     'castellano':'Volver a búsqueda',
-    'gallego':''
+    'gallego':'Volver á procura'
   },
   //OPAC REPORT
   {
     'castellano':'Resultados de la búsqueda',
-    'gallego':''
+    'gallego':'Resultados da procura'
   },{
     'castellano':'Número de resultados',
-    'gallego':''
+    'gallego':'Número de resultados'
   },{
     'castellano':'Autoría Institucional:\n',
     'gallego':'Autoría institucional:\n'
@@ -134,16 +134,16 @@ var gallego = [
     'gallego':'Número:\n'
   },{
     'castellano':'Departamento',
-    'gallego':''
+    'gallego':'Departamento'
   },{
     'castellano':'Autoría Individual',
-    'gallego':''
+    'gallego':'Autoría individual'
   },{
     'castellano':'Departamento',
-    'gallego':''
+    'gallego':'Departamento'
   },{
     'castellano':'Nueva búsqueda',
-    'gallego':''
+    'gallego':'Nova procura'
   },
   //Botones
   {
@@ -154,7 +154,7 @@ var gallego = [
     "gallego":"Procurar"
   },{
     "castellano":'Acceder',
-    "gallego":''
+    "gallego":'Acceder'
   },{
     'castellano':'Salir',
     'gallego':'Saír'
@@ -240,7 +240,7 @@ var gallego = [
     'gallego':'Título do documento'
   },{
     'castellano':'Descripción del documento',
-    'gallego':''
+    'gallego':'Descrición do documento'
   },{
     'castellano':'Fecha Documento',
     'gallego':'Data do documento'
@@ -252,15 +252,15 @@ var gallego = [
     'gallego':'Tamaño máximo: 20 MB'
   },{
     'castellano':'Añadir',
-    'gallego':''
+    'gallego':'Engadir'
   },{
     'castellano':'Volver a donaciones',
-    'gallego':''
+    'gallego':'Volver a doazóns'
   },
   //resultado donacion
   {
     'castellano':'Archivo personal',
-    'gallego':''
+    'gallego':'Arquivo persoal'
   },{
     'castellano':'Resultado de la incorporación de documentos',
     'gallego':'Resultado da incorporación de documentos'
@@ -277,6 +277,6 @@ var gallego = [
     'gallego':'Volver ao arquivo persoal'
   },{
     'castellano':'Reintentar',
-    'gallego':''
+    'gallego':'Tentar de novo'
   }
 ];
