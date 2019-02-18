@@ -1,8 +1,8 @@
 var gallego = [
   //Cabecera
   {
-    "castellano":'Archivo histórico',
-    "gallego":'Arquivo histórico'
+    "castellano":'ARCHIVO HISTÓRICO',
+    "gallego":'ARQUIVO HISTÓRICO'
   },
   //menu
   {
@@ -72,20 +72,14 @@ var gallego = [
   },
   //OPAC
   {
-    "castellano":"Seleccionar tipo de documento a buscar",
+    "castellano":"\n                    Seleccionar tipo de documento a buscar\n                  ",
     "gallego":"Seleccionar tipo de documento que se procura"
   },{
-    "castellano":"Búsqueda por texto libre",
-    "gallego":"Procurar por texto libre"
+    "castellano":'Búsqueda por texto libre<br><span class=\"note\">Solo para documentos a partir de 2004</span>',
+    "gallego":"Procurar por texto libre<br><span class=\"note\">Só para documentos dende 2004</span>"
   },{
-    "castellano":"Solo para documentos a partir de 2004.",
-    "gallego":"Só para documentos dende 2004"
-  },{
-    "castellano":"Título del Documento",
-    "gallego":"Título do documento"
-  },{
-    "castellano":"No utilizar Título para revistas.",
-    "gallego":"Non empregar Título para revistas"
+    "castellano":'Título del Documento<br><span class=\"note\">No utilizar Título para revistas</span>',
+    "gallego":"Título do documento<br><span class=\"note\">Non empregar Título para revistas</span>"
   },{
     "castellano":"Seleccionar formato de salida de los resultados",
     "gallego":"Seleccionar formato de saída dos resultados"
@@ -108,6 +102,49 @@ var gallego = [
     "castellano":'Número',
     "gallego":'Número'
   },
+  //OPAC Help
+  {
+    'castellano':'Volver a búsqueda',
+    'gallego':''
+  },
+  //OPAC REPORT
+  {
+    'castellano':'Resultados de la búsqueda',
+    'gallego':''
+  },{
+    'castellano':'Número de resultados',
+    'gallego':''
+  },{
+    'castellano':'Autoría Institucional:\n',
+    'gallego':'Autoría institucional:\n'
+  },{
+    'castellano':'Temática:\n',
+    'gallego':'Temática:\n'
+  },{
+    'castellano':'Año:\n',
+    'gallego':'Ano:\n'
+  },{
+    'castellano':'Programa:\n',
+    'gallego':'Programa:\n'
+  },{
+    'castellano':'Época:\n',
+    'gallego':'Época:\n'
+  },{
+    'castellano':'Número:\n',
+    'gallego':'Número:\n'
+  },{
+    'castellano':'Departamento',
+    'gallego':''
+  },{
+    'castellano':'Autoría Individual',
+    'gallego':''
+  },{
+    'castellano':'Departamento',
+    'gallego':''
+  },{
+    'castellano':'Nueva búsqueda',
+    'gallego':''
+  },
   //Botones
   {
     "castellano":"Ayuda",
@@ -122,35 +159,29 @@ var gallego = [
     'castellano':'Salir',
     'gallego':'Saír'
   },{
-    'castellano':'Volver a archivo personal',
+    'castellano':`
+                Volver a archivo personal
+              `,
     'gallego':'Volver ao arquivo persoal'
   },
   //Pie
   {
-    "castellano":`
-        <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
-        <p class="center">|</p>
-        <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado bajo licencia AGPLv3</p>
-      `,
-    "gallego":`
-        <p class="left"><a href="https://es.greenpeace.org"><img src="http://localhost:8080/ProdocWeb2/SendDoc?Id=164ec7bc17e-3fccdc9f9ef78520" style="width:110px;height:18px" alt="Greenpeace"></a></p>
-        <p class="center">|</p>
-        <p class="right">Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado baixo licenza AGPLv3</p>
-      `
+    "castellano":`Sitio web realizado con <a href=\"https://jhierrot.github.io/openprodoc/index_ES.html\" class=\"link\">OpenProdoc</a>, liberado bajo licencia AGPLv3`,
+    "gallego":`Sitio web realizado con <a href="https://jhierrot.github.io/openprodoc/index_ES.html" class="link">OpenProdoc</a>, liberado baixo licenza AGPLv3`
   },
   //Participa
   {
     'castellano':'Datos de la persona donante',
     'gallego':'Datos da persoa doante'
   },{
-    "castellano":'Nombre',
-    "gallego":'Nome'
+    "castellano":'Nombre<span style="color:red" ;=""> * </span>',
+    "gallego":'Nome<span style="color:red" ;=""> * </span>'
   },{
     "castellano":'Apellidos',
     "gallego":'Apelidos'
   },{
-    "castellano":'Correo electrónico',
-    "gallego":'Correo electrónico'
+    "castellano":'Correo electrónico<span style="color:red" ;=""> * </span>',
+    "gallego":'Correo electrónico<span style="color:red" ;=""> * </span>'
   },{
     "castellano":'Comentarios',
     "gallego":'Comentarios'
@@ -167,9 +198,20 @@ var gallego = [
     "gallego":`
         <input type="checkbox" required=""> Lin e acepto a <a href="politica-privacidad.html" target="_blank">Política de confidencialidade</a>.
         `
+  },{
+    'castellano':`
+                Ayuda
+              `,
+    'gallego':'Axuda'
   },
   //donaciones
   {
+    'castellano':`Nombre`,
+    'gallego':'Nome'
+  },{
+    'castellano':`Correo electrónico`,
+    'gallego':'Correo electrónico'
+  },{
     "castellano":'Añadir nuevo documento',
     'gallego':'Engadir novo documento'
   },{
@@ -178,11 +220,27 @@ var gallego = [
   },{
     'castellano':'Documentos aportados',
     'gallego':'Documentos achegados'
+  },{
+    'castellano':`
+                    Ayuda
+                `,
+    'gallego':'Axuda'
+  },{
+    'castellano':`
+                    Salir
+                `,
+    'gallego':'Saír'
   },
   //añadir documento
   {
     'castellano':'Por favor, indícanos el título del documento. Los demás campos son opcionales.',
     'gallego':'Por favor, indícanos o título do documento. Os demais campos son opcionais'
+  },{
+    'castellano':'Título del Documento',
+    'gallego':'Título do documento'
+  },{
+    'castellano':'Descripción del documento',
+    'gallego':''
   },{
     'castellano':'Fecha Documento',
     'gallego':'Data do documento'
@@ -190,11 +248,20 @@ var gallego = [
     'castellano':'Archivo a aportar',
     'gallego':'Ficheiro que se achega'
   },{
-    'castellano':'Tamaño máximo: 20 MB',
+    'castellano':'Tamaño máximo: 20 MB.',
     'gallego':'Tamaño máximo: 20 MB'
+  },{
+    'castellano':'Añadir',
+    'gallego':''
+  },{
+    'castellano':'Volver a donaciones',
+    'gallego':''
   },
   //resultado donacion
   {
+    'castellano':'Archivo personal',
+    'gallego':''
+  },{
     'castellano':'Resultado de la incorporación de documentos',
     'gallego':'Resultado da incorporación de documentos'
   },{
@@ -203,5 +270,13 @@ var gallego = [
   },{
     'castellano':'ERROR:Not Allowed extension',
     'gallego':'ERRO: Extensión non permitida'
+  },{
+    'castellano':`
+                  Volver a archivo personal
+              `,
+    'gallego':'Volver ao arquivo persoal'
+  },{
+    'castellano':'Reintentar',
+    'gallego':''
   }
 ];
