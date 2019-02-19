@@ -68,7 +68,7 @@ var catalan = [
     'catalan':'Gallec'
   },{
     'castellano':'Inglés',
-    'catalan':'Anglés'
+    'catalan':'Anglès'
   },
   //OPAC
   {
@@ -105,15 +105,15 @@ var catalan = [
   //OPAC Help
   {
     'castellano':'Volver a búsqueda',
-    'catalan':''
+    'catalan':'Torna a la recerca'
   },
   //OPAC REPORT
   {
     'castellano':'Resultados de la búsqueda',
-    'catalan':''
+    'catalan':'Resultats de la recerca'
   },{
     'castellano':'Número de resultados',
-    'catalan':''
+    'catalan':'Nombre de resultats'
   },{
     'castellano':'Autoría Institucional:\n',
     'catalan':'Autoria Institucional:\n'
@@ -134,16 +134,16 @@ var catalan = [
     'catalan':'Número:\n'
   },{
     'castellano':'Departamento',
-    'catalan':''
+    'catalan':'Departament'
   },{
     'castellano':'Autoría Individual',
-    'catalan':''
+    'catalan':'Autoria individual'
   },{
     'castellano':'Departamento',
-    'catalan':''
+    'catalan':'Departament'
   },{
     'castellano':'Nueva búsqueda',
-    'catalan':''
+    'catalan':'Nova recerca'
   },
   //Botones
   {
@@ -240,10 +240,10 @@ var catalan = [
     'catalan':'Títol del document'
   },{
     'castellano':'Descripción del documento',
-    'catalan':''
+    'catalan':'Descripció del document'
   },{
     'castellano':'Fecha Documento',
-    'catalan':'Data de document'
+    'catalan':'Data del document'
   },{
     'castellano':'Archivo a aportar',
     'catalan':'Arxiu a aportar'
@@ -252,15 +252,15 @@ var catalan = [
     'catalan':'Mida màxima: 20 MB'
   },{
     'castellano':'Añadir',
-    'catalan':''
+    'catalan':'Afegeix'
   },{
     'castellano':'Volver a donaciones',
-    'catalan':''
+    'catalan':'Torna a donacions'
   },
   //resultado donacion
   {
     'castellano':'Archivo personal',
-    'catalan':''
+    'catalan':'Arxiu personal'
   },{
     'castellano':'Resultado de la incorporación de documentos',
     'catalan':'Resultat de la incorporació de documents'
@@ -277,6 +277,6 @@ var catalan = [
     'catalan':'Torna a Arxiu personal'
   },{
     'castellano':'Reintentar',
-    'catalan':''
+    'catalan':'Torna-ho a intentar'
   }
 ];
