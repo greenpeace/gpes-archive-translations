@@ -105,15 +105,15 @@ var euskera = [
   //OPAC Help
   {
     'castellano':'Volver a búsqueda',
-    'euskera':''
+    'euskera':'Bilaketara itzuli'
   },
   //OPAC REPORT
   {
     'castellano':'Resultados de la búsqueda',
-    'euskera':''
+    'euskera':'Bilaketaren emaitzak'
   },{
     'castellano':'Número de resultados',
-    'euskera':''
+    'euskera':'Emaitzen zenbakia'
   },{
     'castellano':'Autoría Institucional:\n',
     'euskera':'Egiletza instituzionala:\n'
@@ -134,16 +134,16 @@ var euskera = [
     'euskera':'Zenbakia:\n'
   },{
     'castellano':'Departamento',
-    'euskera':''
+    'euskera':'Departamentua'
   },{
     'castellano':'Autoría Individual',
-    'euskera':''
+    'euskera':'Egiletza indibiduala '
   },{
     'castellano':'Departamento',
-    'euskera':''
+    'euskera':'Departamentua'
   },{
     'castellano':'Nueva búsqueda',
-    'euskera':''
+    'euskera':'Bilaketa berria'
   },
   //Botones
   {
@@ -240,7 +240,7 @@ var euskera = [
     'euskera':'Dokumentuaren izenburua'
   },{
     'castellano':'Descripción del documento',
-    'euskera':''
+    'euskera':'Dokumentuaren deskribapena'
   },{
     'castellano':'Fecha Documento',
     'euskera':'Dokumentu-data'
@@ -252,15 +252,15 @@ var euskera = [
     'euskera':'Gehienezko tamaina: 20MB'
   },{
     'castellano':'Añadir',
-    'euskera':''
+    'euskera':'Gehitu'
   },{
     'castellano':'Volver a donaciones',
-    'euskera':''
+    'euskera':'Dohaintzetara itzuli'
   },
   //resultado donacion
   {
     'castellano':'Archivo personal',
-    'euskera':''
+    'euskera':'Artxibo pertsonala'
   },{
     'castellano':'Resultado de la incorporación de documentos',
     'euskera':'Dokumentu-ematearen emaitza'
@@ -277,6 +277,6 @@ var euskera = [
     'euskera':'Artxibo pertsonalera bueltatu'
   },{
     'castellano':'Reintentar',
-    'euskera':''
+    'euskera':'Saiatu berriz'
   }
 ];
